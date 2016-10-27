@@ -1,7 +1,7 @@
 # c1218_stack
 
 Description:
-ANSI C12.18(2006) stack implement by C. It have been implement the needed services, and you can
+ANSI C12.18(2006) stack implement by C. It have been implement the needed services, and it can
 work in Linux.
 
 First step:
